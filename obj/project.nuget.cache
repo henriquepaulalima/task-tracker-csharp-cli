@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "coXOiSi5P0cz9jr8tfF0N+GbceYZtzUpJEeHW6Ui2f3ICKNiOieEH2i41h9ttBaLpCSMHVaVrMrmdSFriFWapQ==",
+  "success": true,
+  "projectFilePath": "/home/nexus/dev/task-tracker/task-tracker.csproj",
+  "expectedPackageFiles": [
+    "/home/nexus/.nuget/packages/clifx/2.3.5/clifx.2.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}

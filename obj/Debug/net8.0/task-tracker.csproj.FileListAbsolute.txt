@@ -1,0 +1,17 @@
+/home/nexus/dev/task-tracker/bin/Debug/net8.0/task-tracker
+/home/nexus/dev/task-tracker/bin/Debug/net8.0/task-tracker.deps.json
+/home/nexus/dev/task-tracker/bin/Debug/net8.0/task-tracker.runtimeconfig.json
+/home/nexus/dev/task-tracker/bin/Debug/net8.0/task-tracker.dll
+/home/nexus/dev/task-tracker/bin/Debug/net8.0/task-tracker.pdb
+/home/nexus/dev/task-tracker/bin/Debug/net8.0/CliFx.dll
+/home/nexus/dev/task-tracker/obj/Debug/net8.0/task-tracker.csproj.AssemblyReference.cache
+/home/nexus/dev/task-tracker/obj/Debug/net8.0/task-tracker.GeneratedMSBuildEditorConfig.editorconfig
+/home/nexus/dev/task-tracker/obj/Debug/net8.0/task-tracker.AssemblyInfoInputs.cache
+/home/nexus/dev/task-tracker/obj/Debug/net8.0/task-tracker.AssemblyInfo.cs
+/home/nexus/dev/task-tracker/obj/Debug/net8.0/task-tracker.csproj.CoreCompileInputs.cache
+/home/nexus/dev/task-tracker/obj/Debug/net8.0/task-tracker.csproj.CopyComplete
+/home/nexus/dev/task-tracker/obj/Debug/net8.0/task-tracker.dll
+/home/nexus/dev/task-tracker/obj/Debug/net8.0/refint/task-tracker.dll
+/home/nexus/dev/task-tracker/obj/Debug/net8.0/task-tracker.pdb
+/home/nexus/dev/task-tracker/obj/Debug/net8.0/task-tracker.genruntimeconfig.cache
+/home/nexus/dev/task-tracker/obj/Debug/net8.0/ref/task-tracker.dll

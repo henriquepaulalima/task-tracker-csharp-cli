@@ -1,0 +1,6 @@
+/home/nexus/dev/task-tracker/bin/Release/net8.0/publish/task-tracker
+/home/nexus/dev/task-tracker/bin/Release/net8.0/publish/task-tracker.dll
+/home/nexus/dev/task-tracker/bin/Release/net8.0/publish/task-tracker.deps.json
+/home/nexus/dev/task-tracker/bin/Release/net8.0/publish/task-tracker.runtimeconfig.json
+/home/nexus/dev/task-tracker/bin/Release/net8.0/publish/task-tracker.pdb
+/home/nexus/dev/task-tracker/bin/Release/net8.0/publish/CliFx.dll

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>task-tracker</id>
+    <version>1.0.0</version>
+    <authors>task-tracker</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="/home/nexus/dev/task-tracker/obj/DotnetToolSettings.xml" target="tools/net8.0/any/DotnetToolSettings.xml" />
+    <file src="/home/nexus/dev/task-tracker/bin/Release/net8.0/publish/task-tracker.dll" target="tools/net8.0/any/task-tracker.dll" />
+    <file src="/home/nexus/dev/task-tracker/bin/Release/net8.0/publish/task-tracker.deps.json" target="tools/net8.0/any/task-tracker.deps.json" />
+    <file src="/home/nexus/dev/task-tracker/bin/Release/net8.0/publish/task-tracker.runtimeconfig.json" target="tools/net8.0/any/task-tracker.runtimeconfig.json" />
+    <file src="/home/nexus/dev/task-tracker/bin/Release/net8.0/publish/task-tracker.pdb" target="tools/net8.0/any/task-tracker.pdb" />
+    <file src="/home/nexus/dev/task-tracker/bin/Release/net8.0/publish/CliFx.dll" target="tools/net8.0/any/CliFx.dll" />
+  </files>
+</package>
