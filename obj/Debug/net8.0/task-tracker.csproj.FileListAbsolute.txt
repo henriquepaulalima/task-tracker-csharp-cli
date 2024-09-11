@@ -15,3 +15,4 @@
 /home/nexus/dev/task-tracker/obj/Debug/net8.0/task-tracker.pdb
 /home/nexus/dev/task-tracker/obj/Debug/net8.0/task-tracker.genruntimeconfig.cache
 /home/nexus/dev/task-tracker/obj/Debug/net8.0/ref/task-tracker.dll
+/home/nexus/dev/task-tracker/obj/Debug/net8.0/task-tracker.sourcelink.json

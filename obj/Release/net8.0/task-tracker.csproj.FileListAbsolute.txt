@@ -15,3 +15,4 @@
 /home/nexus/dev/task-tracker/bin/Release/net8.0/CliFx.dll
 /home/nexus/dev/task-tracker/obj/Release/net8.0/task-tracker.csproj.AssemblyReference.cache
 /home/nexus/dev/task-tracker/obj/Release/net8.0/task-tracker.csproj.CopyComplete
+/home/nexus/dev/task-tracker/obj/Release/net8.0/task-tracker.sourcelink.json

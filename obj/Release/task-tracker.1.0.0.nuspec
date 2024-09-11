@@ -8,7 +8,7 @@
     <packageTypes>
       <packageType name="DotnetTool" />
     </packageTypes>
-    <repository type="git" />
+    <repository type="git" commit="3aa9fb7f41cf1f3d7a4333428b11c7b95173570f" />
   </metadata>
   <files>
     <file src="/home/nexus/dev/task-tracker/obj/DotnetToolSettings.xml" target="tools/net8.0/any/DotnetToolSettings.xml" />

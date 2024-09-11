@@ -1,10 +1,9 @@
-﻿
-
-class Program
+﻿class Program
 {
-  public static async System.Threading.Tasks.Task Main(string[] args)
+  public static async System.Threading.Tasks.Task Main()
   {    
-    Cli myCli = new Cli();
-    await myCli.StartCli();
+    Cli taskTrackerCli = new Cli();
+    taskTrackerCli.LoadTasks();
+    await taskTrackerCli.StartCli();
   }
 }
